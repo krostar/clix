@@ -1,0 +1,10 @@
+# by default, everything is ignored
+/*
+
+# only de-ignore what we need
+!/*.go
+!/go.mod
+!/go.sum
+!/Makefile
+!/README.md
+!/.travis.yml
