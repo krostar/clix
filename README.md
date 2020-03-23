@@ -5,8 +5,8 @@
 ![Latest version](https://img.shields.io/github/tag/krostar/clix.svg?style=for-the-badge)
 
 [![Build Status](https://img.shields.io/travis/krostar/clix/master.svg?style=for-the-badge)](https://travis-ci.org/krostar/clix)
-[![Code quality](https://img.shields.io/codacy/grade/<heregoesmytoken>/master.svg?style=for-the-badge)](https://app.codacy.com/project/krostar/clix/dashboard)
-[![Code coverage](https://img.shields.io/codacy/coverage/<heregoesmytoken>.svg?style=for-the-badge)](https://app.codacy.com/project/krostar/clix/dashboard)
+[![Code quality](https://img.shields.io/codacy/grade/abf18371c077479fa9f8902f64ce0fba/master.svg?style=for-the-badge)](https://app.codacy.com/project/krostar/clix/dashboard)
+[![Code coverage](https://img.shields.io/codacy/coverage/abf18371c077479fa9f8902f64ce0fba.svg?style=for-the-badge)](https://app.codacy.com/project/krostar/clix/dashboard)
 
 Modulable CLI builder that call agnostic go idiomatic isolated cli handler, inspired by net/http.
 
